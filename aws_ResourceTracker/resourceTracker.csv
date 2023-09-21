@@ -1,8 +1,6 @@
-=======Print list of lambda functions in aws account========
-S_No,Lambda_Functions_Name
-1,"csv-s3-lambda"
-2,"mylambda"
-3,"sns-lambda"
-4,"cognito-auth-lambda"
-5,"techmahato-sqs-lambda"
-6,"s3importdydb"
+=======Print list IAM users in aws account========
+S_No,IAM_Users
+1,"ecr_user"
+2,"kmanavar"
+3,"mbhatt"
+4,"rdepani"
