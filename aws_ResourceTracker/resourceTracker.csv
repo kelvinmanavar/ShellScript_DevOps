@@ -1,8 +1,8 @@
-========Print list of ec2 instances status in aws account========
-S_No,EC2Instance_status
-1,i-05437ca80c2231a33 stopped
-2,i-018d91a2d8a1b8462 stopped
-3,i-09081e842eb469931 stopped
-4,i-02ef5df829aaa5650 stopped
-5,i-077b8847437ffe9ed stopped
-6,i-049be0b1f68e05a3d stopped
+=======Print list of lambda functions in aws account========
+S_No,Lambda_Functions_Name
+1,"csv-s3-lambda"
+2,"mylambda"
+3,"sns-lambda"
+4,"cognito-auth-lambda"
+5,"techmahato-sqs-lambda"
+6,"s3importdydb"
